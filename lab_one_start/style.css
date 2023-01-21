@@ -1,0 +1,23 @@
+img {
+    max-width: 100px;
+    height: auto;
+}
+
+li:nth-child(odd){
+    font-weight: bold;
+}
+
+.wrapper {
+    background-color: #F7CAC9;
+    width: 99vw;
+    margin: auto 0;
+}
+
+.wrapper {
+    color: #333;
+}
+
+.color {
+    color: black;
+}
+
